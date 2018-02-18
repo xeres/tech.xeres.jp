@@ -163,6 +163,15 @@ theme_config:
   toc: true
   # Open share
   share: true
+  shares:
+    facebook:
+      title: Facebook
+    twitter:
+      title: Twitter
+    hatena:
+      title: はてなブックマーク
+    pocket:
+      title: Pocket
 
   # Style customization
   style:
