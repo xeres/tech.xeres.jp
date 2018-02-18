@@ -113,6 +113,8 @@ theme_config:
   logo: images/logo.png
   # Link to your banner_img
   banner_img: images/banner.jpg
+  # Sitemap
+  rss: atom.xml
   # Menu setting
   #  name:                  Font Awesome icon
   #    title: Home          Title
