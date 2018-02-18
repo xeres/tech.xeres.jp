@@ -190,7 +190,7 @@ theme_config:
 
   # Analytics
   # google analytics
-  google_analytics: false
+  google_analytics: UA-22861161-7
 
   # Footer
 
