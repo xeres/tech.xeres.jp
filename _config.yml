@@ -81,7 +81,18 @@ deploy:
 marked:
   breaks: false
 
-## Themes: https://hexo.io/themes/
+# Plugin: https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+
+# Plugin: https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+
+  ## Themes: https://hexo.io/themes/
 theme: miho
 theme_config:
   # hexo-theme-miho
