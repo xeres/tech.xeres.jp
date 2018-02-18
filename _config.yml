@@ -128,7 +128,7 @@ theme_config:
   social:
     home:
       title: Blog
-      url: //minhow.com
+      url: //tech.xeres.jp
       target: false
     github:
       title: Github
