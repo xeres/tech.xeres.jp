@@ -88,7 +88,7 @@ theme_config:
   # https://github.com/xeres/hexo-theme-miho
 
   # Favicon of your site
-  favicon: /favicon.ico
+  favicon: /favicon-16x16.png
 
   # Header
 
