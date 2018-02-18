@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>451 Unavailable For Legal Reasons</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tech.xeres.jp/"/>
+  <updated>2018-02-18T10:04:29.896Z</updated>
+  <id>https://tech.xeres.jp/</id>
+  
+  <author>
+    <name>Xeres</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, World!</title>
+    <link href="https://tech.xeres.jp/2018/02/18/hello-world/"/>
+    <id>https://tech.xeres.jp/2018/02/18/hello-world/</id>
+    <published>2018-02-18T03:10:31.000Z</published>
+    <updated>2018-02-18T10:04:29.896Z</updated>
+    
+    <content type="html"><![CDATA[<p>はてなブログとか Qiita とかをテキトーに使っていたのだが、技術系の話は Git にMarkdown をブチ込んだら良い感じにしてくれるようにしないと続かないな、と思い直した。</p><p><a href="https://pages.github.com/" target="_blank" rel="noopener">Github Pages</a> も検討したのだが、カスタムドメインやHTTPS 化、CDN の利用などの簡易さから <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a> にした。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;はてなブログとか Qiita とかをテキトーに使っていたのだが、技術系の話は Git に
+Markdown をブチ込んだら良い感じにしてくれるようにしないと続かないな、と思い直した。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot; ta
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
