@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tech.xeres.jp/"/>
-  <updated>2018-02-18T10:09:32.400Z</updated>
+  <updated>2018-03-07T15:13:23.683Z</updated>
   <id>https://tech.xeres.jp/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://tech.xeres.jp/2018/02/18/hello-world/"/>
     <id>https://tech.xeres.jp/2018/02/18/hello-world/</id>
     <published>2018-02-18T03:10:31.000Z</published>
-    <updated>2018-02-18T10:09:32.400Z</updated>
+    <updated>2018-03-07T15:13:23.683Z</updated>
     
     <content type="html"><![CDATA[<p>はてなブログとか Qiita とかをテキトーに使っていたのだが、技術系の話は Git にMarkdown をブチ込んだら良い感じにしてくれるようにしないと続かないな、と思い直した。</p><p><a href="https://pages.github.com/" target="_blank" rel="noopener">Github Pages</a> も検討したのだが、カスタムドメインやHTTPS 化、CDN の利用などの簡易さから <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify</a> にした。</p>]]></content>
     
