@@ -18,6 +18,7 @@ date: 2018-02-19 0:00:00
 ### 連絡先
 
 - メール: [xeresjp@gmail.com](mailto:xeresjp@gmail.com)
-- ブログ: https://tech.xeres.jp
+- ブログ: https://blog.xeres.jp
+- 技術系ブログ: https://tech.xeres.jp
 - Twitter: https://twitter.com/xerespm
 - GitHub: https://github.com/xeres
